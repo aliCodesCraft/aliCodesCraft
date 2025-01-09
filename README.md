@@ -9,8 +9,8 @@
 
 <h3 align="left">🔗 Connect With Me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/alicodecraft" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github-alt.svg" alt="Github" height="30" width="40" />
+  <a href="https://github.com/alicodecraft" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
   </a>
   <a href="https://linkedin.com/in/alicodecraft" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
